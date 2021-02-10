@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-token = '192679085:AAFEFoNOjPMPJpV2KxJrfCFM86tlhM2-bHk'
+
 
 info = 'Hello Master.\nAll the functions that I have:\n/data - Дата и время \n/week - Расписание на всю неделю' \
        ' \n/today - Расписание на сегоднящний день \n/tomorrow - Расписание на завтрашний день\n' \
